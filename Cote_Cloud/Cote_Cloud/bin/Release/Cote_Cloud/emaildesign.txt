@@ -1,0 +1,153 @@
+<meta charset="UTF-8">
+<div class="gmail_default" style="font-family: comic sans ms,sans-serif;">
+        <table id="mainStructure" class="full-width" style="background-color: #efefef; width: 800px; max-width: 800px; margin: 0 auto; outline: 1px solid #efefef; box-shadow: 0px 0px 5px #E0E0E0;" border="0" width="800" cellspacing="0" cellpadding="0" align="center">
+            <tbody>
+                <tr>
+                    <td style="background: no-repeat top center/cover; background-image: url('https://www.cloudHQ.net/system/content/templates/images/set11-bg1.jpg'); background-color: #1dcfd1; background-size: cover; background-position: 50% 0%; background-repeat: no-repeat;" align="center" valign="top" width="100%" height="100%">
+                        <table class="container" style="margin: 0 auto; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
+                            <tbody>
+                                <tr>
+                                    <td align="center" valign="top">
+                                        <table class="container" style="min-width: 600px; margin: 0px auto; width: 600px; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" border="0" width="600" cellspacing="0" cellpadding="0" align="center">
+                                            <tbody>
+                                                <tr>
+                                                    <td align="center" valign="top">
+                                                        <table class="full-width" style="table-layout: fixed; margin: 0px auto; width: 560px; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" border="0" width="560" cellspacing="0" cellpadding="0" align="center">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td style="height: 80px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top" height="80">&nbsp;</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td valign="top">
+                                                                        <table style="margin: 0px auto; height: 88px; width: 100%;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
+                                                                            <tbody>
+                                                                                <tr style="height: 88px;">
+                                                                                    <td style="font-size: 36px; color: #ffffff; font-weight: 600; text-align: center; font-family: 'Open Sans', Arial, Helvetica, sans-serif; word-break: break-word; line-height: 44px; height: 88px;" align="center"><span style="font-weight: 600; text-decoration: none; color: #ffffff; font-size: inherit; line-height: 44px;"><a style="color: #ffffff; font-size: inherit; border-style: none; text-decoration: none !important; line-height: 44px;" href="#"><span style="text-decoration-style: initial !important; text-decoration-color: initial !important;">COTEPECOS</span><br />
+                                                                                        <span style="color: #6dedef; font-size: 20px; border-style: none; line-height: 28px; text-decoration: none; font-weight: 300;">Proceso de Admision</span></a></span></td>
+                                                                                </tr>
+                                                                            </tbody>
+                                                                        </table>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td valign="top">&nbsp;</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td align="center" valign="top">&nbsp;</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="height: 80px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top" height="80">&nbsp;</td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="container" style="background-color: #ffffff;" align="center" valign="top">
+                        <table class="container" style="min-width: 600px; margin: 0px auto; width: 600px; background-color: #ffffff; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" border="0" width="600" cellspacing="0" cellpadding="0" align="center">
+                            <tbody>
+                                <tr>
+                                    <td align="center" valign="top">
+                                        <table class="full-width" style="table-layout: fixed; margin: 0px auto; width: 560px; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" border="0" width="560" cellspacing="0" cellpadding="0" align="center">
+                                            <tbody>
+                                                <tr>
+                                                    <td style="height: 40px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top" height="40">&nbsp;</td>
+                                                </tr>
+                                                <tr>
+                                                    <td valign="top">
+                                                        <table style="margin: 0 auto; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td style="height: 20px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top" height="20">&nbsp;</td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td valign="top">
+                                                        <table style="margin: 0 auto; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td style="font-size: 14px; color: #888888; font-weight: 300; text-align: center; font-family: 'Open Sans', Arial, Helvetica, sans-serif; word-break: break-word; line-height: 22px;" align="center">
+                                                                        <p>El usuario del estudiante {nom} es: {user} y
+                                                                            su respectivo codigo de acceso es: {contra}.</p><p> Por favor ingrese al sitio web de 
+                                                                            COTEPECOS y cambie su clave de acceso por motivos de seguridad</p>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="height: 20px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top" height="20">&nbsp;</td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="height: 20px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top" height="20">&nbsp;</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="container" style="background-color: #1dcfd1;" align="center" valign="top">
+                        <table class="container" style="min-width: 600px; margin: 0px auto; width: 600px; background-color: #1dcfd1; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" border="0" width="600" cellspacing="0" cellpadding="0" align="center">
+                            <tbody>
+                                <tr>
+                                    <td class="clear-pad" style="padding-left: 20px; padding-right: 20px;" align="center" valign="top">
+                                        <table class="full-width" style="margin: 0 auto; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
+                                            <tbody>
+                                                <tr>
+                                                    <td style="height: 50px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top" height="50">&nbsp;</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                        <table class="full-width" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" border="0" width="auto" cellspacing="0" cellpadding="0" align="center">
+                                            <tbody>
+                                                <tr>
+                                                    <td style="font-size: 14px; color: #ffffff; font-weight: normal; text-align: center; font-family: 'Open Sans', Arial, Helvetica, sans-serif; word-break: break-word; line-height: 22px;" align="center">COTEPECOS<span style="text-decoration: none; color: #ffffff; font-size: inherit; line-height: 22px;"><br />
+                                                        Sabana Sur<br />
+                                                        2291-7969</span></td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td valign="top">
+                                        <table style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
+                                            <tbody>
+                                                <tr>
+                                                    <td valign="middle" style="align">
+                                                        &nbsp;</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td valign="top">&nbsp;</td>
+                                </tr>
+                <tr>
+                    <td valign="top">&nbsp;</td>
+                </tr>
+                </tbody>
+                        </table>
+                </td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    </div>
